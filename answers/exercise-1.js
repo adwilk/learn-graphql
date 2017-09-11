@@ -31,4 +31,6 @@ app.use('/', graphqlHTTP({
   },
 }));
 
-app.listen(process.env.PORT || 8080, process.env.IP || '0.0.0.0');
+const host = process.env.IP || 'localhost';
+const port = process.env.PORT || 8080;
+app.listen(port, host, () => console.log(`🔗  http://${host}:${port}`));
