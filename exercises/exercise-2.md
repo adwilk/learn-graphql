@@ -13,4 +13,20 @@ At the end of this excercise, your graphql server should be able to take three d
 * sum
   - Takes two integer arguments and responds with the sum
 * characters
-  - Takes a string argument, and responds with a list of Game of Thrones characters whose names contain the provided string. The characters.json file at the root of this project will be needed. Hint: You will need to define a new type for this one.
+  - Takes a string argument, and responds with a list of Game of Thrones characters whose names contain the provided string.
+  - The characters.json file at the root of this project will be needed.
+  - Hint: You will need to define a new type for this one.
+
+Use graphiql to test your resolvers independently or all at once. Here is a sample query:
+
+```
+{
+  hello(name: "Jon Snow")
+  sum(first: 20, second: 22)
+  characters(nameContains: "Stark") {
+    name
+    gender
+    alive
+  }
+}
+```
