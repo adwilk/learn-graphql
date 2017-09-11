@@ -3,4 +3,14 @@
 
 ### Exercise 2 - Arguments
 
-TODO
+Goal:
+Learn to make more dynamic resolvers by handling [arguments](http://graphql.org/learn/queries/#arguments).
+
+At the end of this excercise, your graphql server should be able to take three different queries:
+
+* hello
+  - Takes a name argument, and responds with a greeting for whichever name is provided e.g. "hello Jon Snow!"
+* sum
+  - Takes two integer arguments and responds with the sum
+* characters
+  - Takes a string argument, and responds with a list of Game of Thrones characters whose names contain the provided string. The characters.json file at the root of this project will be needed. Hint: You will need to define a new type for this one.
