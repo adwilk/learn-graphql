@@ -11,7 +11,7 @@ To cache API calls you will be use DataLoader which is good for batching and cac
 
 Add types and resolvers to your schema so that the following query is valid and only makes two API calls.
 
-```
+```graphql
 {
   user(id:1) {
     name

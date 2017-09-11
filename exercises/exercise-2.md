@@ -19,7 +19,7 @@ At the end of this exercise, your GraphQL server should be able to take three di
 
 Use Graph*i*QL to test your resolvers independently or all at once. Here is a sample query:
 
-```
+```graphql
 {
   hello(name: "Jon Snow")
   sum(first: 20, second: 22)

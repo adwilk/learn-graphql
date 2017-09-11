@@ -7,24 +7,24 @@ The goal of this exercise is to add the ability of retrieving data asynchronousl
 
 At the end of this exercise you should be able to hit your server with the following 2 queries and get successful responses.
 
-```
+```graphql
 {
-	posts {
-		userId
-    	id
-    	title
-    	body
-	}
+  posts {
+    userId
+    id
+    title
+    body
+  }
 }
 ```
 
-```
+```graphql
 {
-	post (id: 1) {
-		userId
-    	id
-    	title
-    	body
-	}
+  post (id: 1) {
+    userId
+    id
+    title
+    body
+  }
 }
 ```
