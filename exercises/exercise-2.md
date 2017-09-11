@@ -4,7 +4,7 @@
 ### Exercise 2 - Arguments
 
 Goal:
-Learn to make more dynamic resolvers by handling [arguments](http://graphql.org/learn/queries/#arguments).
+Learn to make more dynamic resolvers by [executing](http://graphql.org/learn/execution/) queries with [arguments](http://graphql.org/learn/queries/#arguments).
 
 At the end of this excercise, your graphql server should be able to take three different queries:
 
