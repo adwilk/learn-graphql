@@ -10,4 +10,4 @@ The goal of this exercise is to understand the basics of graphql. This includes:
 * [Schema](http://graphql.org/learn/schema/)
 
 
-At the end of this exercise you should have graphql configured with a node express server. You should also be able to hit your express endpoint with a query string and return 'Hello World'.
+At the end of this exercise you should have graphql configured with a node express server. You should also be able to hit your express endpoint with a query string `?query={hello}` and return 'Hello World'.
