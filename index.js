@@ -1,6 +1,6 @@
 import express from 'express';
-import { graphql } from 'graphql';
 import { makeExecutableSchema } from 'graphql-tools';
+import { graphql } from 'graphql';
 
 const typeDefs = `
   schema {
