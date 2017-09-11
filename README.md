@@ -5,6 +5,8 @@ In order to complete the exercises you will need either have:
 * [node](https://nodejs.org/en/download/) installed and your proxy settings set correctly in NPM
 * An account set up with [Cloud9](https://c9.io) *- log in using your github account otherwise it will ask for your CC details*
 
+You'll be working through the exercises below and making changes to `index.js`. First you will need to install the projects dependencies by running `npm install`, then to start the application use `npm start` (the application will automatically restart when `index.js` is modified).
+
 ## Exercises
 
 * [Exercise 0 - GraphQL Basics](exercises/exercise-0.md)
