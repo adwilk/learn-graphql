@@ -15,3 +15,4 @@ You should be able to `POST` to your server with the following body:
 
 Add `graphiql: true` to the options passed to `express-graphql`.
 You should see Graph*i*QL when you visit your server in a browser.
+Enter `{ hello }` as the query and hit the ▶️ button.
