@@ -1,7 +1,7 @@
 import express from 'express';
 import { makeExecutableSchema } from 'graphql-tools';
 import graphqlHTTP from 'express-graphql';
-import characters from '../characters';
+import characters from './characters';
 import axios from 'axios';
 import DataLoader from 'dataloader';
 
