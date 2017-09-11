@@ -1,0 +1,10622 @@
+[
+  {
+    "name": "Abelar Hightower",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Addam",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Addam Frey",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Addam Marbrand",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Addam Osgrey",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Addam Velaryon",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Addison Hill",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Aegon Blackfyre",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Aegon Frey",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Aegon Frey",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Aegon I",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Aegon II",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Aegon III",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Aegon IV",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Aegon Targaryen",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Aegon Targaryen",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Aegon Targaryen",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Aegon Targaryen",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Aegon V",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Aegor Rivers",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Aelinor Penrose",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Aemma Arryn",
+    "gender": "Female",
+    "alive": false
+  },
+  {
+    "name": "Aemon Blackfyre",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Aemon Costayne",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Aemon Estermont",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Aemon Rivers",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Aemon Targaryen",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Aemond Targaryen",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Aenys Frey",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Aenys I",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Aerion Targaryen",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Aerion Targaryen",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Aeron Greyjoy",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Aerys I",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Aerys II",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Aethan",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Aethelmure",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Aggar",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Aggo",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Aglantine",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Agrivane",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Aladale Wynch",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Alan",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Alan of Rosby",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Alannys Harlaw",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Alaric of Eysen",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Alayaya",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Albar Royce",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Albett",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Alebelly",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Alekyne Florent",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Alequo Adarys",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Alerie Hightower",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Alesander Frey",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Alesander Staedmon",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Alesandor Torrent",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Alester Florent",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Alester Norcross",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Alester Oakheart",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Alester Tyrell",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Alfyn",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Alia of Braavos",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Alicent Hightower",
+    "gender": "Female",
+    "alive": false
+  },
+  {
+    "name": "All-for-Joffrey",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Alla Tyrell",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Allaquo",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Allar Deem",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Allard Seaworth",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Alliser Thorne",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Allyria Dayne",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Alvyn Sharp",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Alyce",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Alyce Graceford",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Alyn",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Alyn",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Alyn Ambrose",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Alyn Cockshaw",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Alyn Connington",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Alyn Estermont",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Alyn Frey",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Alyn Haigh",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Alyn Hunt",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Alyn Stackspear",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Alyn Tarbeck",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Alyn Velaryon",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Alys Arryn",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Alys Arryn",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Alys Beesbury",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Alys Frey",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Alys Karstark",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Alys Karstark",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Alys Karstark",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Alysane Mormont",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Alysanne Bracken",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Alysanne Bulwer",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Alysanne Farman",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Alysanne Hightower",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Alysanne Lefford",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Alysanne Osgrey",
+    "gender": "Female",
+    "alive": false
+  },
+  {
+    "name": "Alysanne Targaryen",
+    "gender": "Female",
+    "alive": false
+  },
+  {
+    "name": "Alysanne Tarth",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Alyssa Arryn",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Alyssa Blackwood",
+    "gender": "Female",
+    "alive": false
+  },
+  {
+    "name": "Alyssa Targaryen",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Alyssa Velaryon",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Alyx Frey",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Amabel",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Amarei Crakehall",
+    "gender": "Female",
+    "alive": false
+  },
+  {
+    "name": "Ambrode",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Ambrose Butterwell",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Amerei Frey",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Amory Lorch",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Andar Royce",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Anders Yronwood",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Andrew Estermont",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Andrey Charlton",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Andrey Dalt",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Andrik",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Andros Brax",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Androw Ashford",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Androw Frey",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Anguy",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Annara Farring",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Antario Jast",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Anya Waynwood",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Archibald Yronwood",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Ardrian Celtigar",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Areo Hotah",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Argella Durrandon",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Argilac Durrandon",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Argrave the Defiant",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Arianne Martell",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Arianne Tarth",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Arlan of Pennytree",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Armen",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Armistead Vance",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Armond Caswell",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Arneld",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Arnell",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Arnolf Karstark",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Aron Santagar",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Arra Norrey",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Arrec Durrandon",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Arron",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Arron Qorgyle",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Arryk",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Arson",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Arstan Selmy",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Arthor Karstark",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Arthur Ambrose",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Arthur Dayne",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Artos Stark",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Artys I Arryn",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Arwood Frey",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Arwyn Frey",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Arwyn Oakheart",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Arya Flint",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Arya Stark",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Arys Oakheart",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Asha Greyjoy",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Ashara Dayne",
+    "gender": "Female",
+    "alive": false
+  },
+  {
+    "name": "Assadora",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Aubrey Ambrose",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Aurane Waters",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Axell Florent",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Ayrmidon",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Azor Ahai",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Azzak",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Bael",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Baela Targaryen",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Baelish",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Baelon Targaryen",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Baelon Targaryen",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Baelon Targaryen",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Baelor Blacktyde",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Baelor Hightower",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Baelor I",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Baelor Targaryen",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Balaq",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Ballabar",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Balman Byrch",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Balon Botley",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Balon Greyjoy",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Balon Swann",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Bandy",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Bannen",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Barba Bracken",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Barbara Bracken",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Barbrey Dustin",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Barra",
+    "gender": "Female",
+    "alive": false
+  },
+  {
+    "name": "Barre",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Barristan Selmy",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Barsena",
+    "gender": "Female",
+    "alive": false
+  },
+  {
+    "name": "Barth",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Barth",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Barthogan Stark",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Bass",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Bayard Norcross",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Bearded Ben",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Beardless Dick",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Becca",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Becca",
+    "gender": "Female",
+    "alive": false
+  },
+  {
+    "name": "Beck",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Bedwyck",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Belandra",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Belaquo",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Beldecar",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Belis",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Bella",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Bellegere Otherys",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Bellegere Otherys",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Bellena Hawick",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Bellonara Otherys",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Belwas",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Ben",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Ben",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Ben",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Ben Bushy",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Ben Plumm",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Benedar Belmore",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Benedict",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Benedict Broom",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Benedict I Justman",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Benfred Tallhart",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Benfrey Frey",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Benjen Stark",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Benjen Stark",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Benjen Stark",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Bennard Brune",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Bennarion Botley",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Bennet",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Bennis",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Beony Beesbury",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Beqqo",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Beren Tallhart",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Berena Hornwood",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Beric Dondarrion",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Beron Blacktyde",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Beron Stark",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Bertram Beesbury",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Bess Bracken",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Bessa",
+    "gender": "Female",
+    "alive": false
+  },
+  {
+    "name": "Bessa",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Beth Cassel",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Betha Blackwood",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Bethany",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Bethany Bolton",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Bethany Bracken",
+    "gender": "Female",
+    "alive": false
+  },
+  {
+    "name": "Bethany Fair-Fingers",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Bethany Redwyne",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Bethany Rosby",
+    "gender": "Female",
+    "alive": false
+  },
+  {
+    "name": "Betharios",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Bhakaz zo Loraq",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Bharbo",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Big Belly Ben",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Big Boil",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Biter",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Black Bernarr",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Blane",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Bloodbeard",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Bluetooth",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Bodger",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Bonifer Hasty",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Borcas",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Boremund Harlaw",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Boros Blount",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Borroq",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Bors",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Bowen Marsh",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Boy",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Bradamar Frey",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Brandon Norrey",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Brandon Stark",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Brandon Stark",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Brandon Stark",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Brandon Stark",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Brandon Stark",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Brandon Stark",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Brandon Stark",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Brandon Stark",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Brandon Tallhart",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Branston Cuy",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Brea",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Brella",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Brenett",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Briar",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Brienne of Tarth",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Brogg",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Bronn",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Brown Bernarr",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Brusco",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Bryan Fossoway",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Bryan Frey",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Bryan of Oldtown",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Bryce Caron",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Bryen",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Bryen Caron",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Bryen Farring",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Brynden Blackwood",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Brynden Rivers",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Brynden Tully",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Buford Bulwer",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Bump",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Burton Crakehall",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Butterbumps",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Buu",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Byam Flint",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Byan Votyris",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Byren Flowers",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Byron",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Cadwyl",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Cadwyn",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Cafferen",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Caleotte",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Calla Blackfyre",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Calon",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Camarron",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Carellen Smallwood",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Carolei Waynwood",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Carrot",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Casper Wylde",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Cass",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Cassana Estermont",
+    "gender": "Female",
+    "alive": false
+  },
+  {
+    "name": "Cassella Vaith",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Castos",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Catelyn Bracken",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Catelyn Stark",
+    "gender": "Female",
+    "alive": false
+  },
+  {
+    "name": "Cayn",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Cedra",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Cedric Payne",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Cedrik Storm",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Cellador",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Cerenna Lannister",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Cerissa Brax",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Cerrick",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Cersei Frey",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Cersei Lannister",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Ceryse Hightower",
+    "gender": "Female",
+    "alive": false
+  },
+  {
+    "name": "Cetheres",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Chataya",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Chayle",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Chella daughter of Cheyk",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Chett",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Cheyk",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Chiggen",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Chiswyck",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Clarence Charlton",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Clarence Crabb",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Clarence Crabb",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Clarent Crakehall",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Clayton Suggs",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Clegane",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Clement",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Clement Crabb",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Clement Piper",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Cleon",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Cleos Frey",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Cletus Yronwood",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Cley Cerwyn",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Cleyton Caswell",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Clifford Conklyn",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Clydas",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Cohollo",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Coldhands",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Colemon",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Colen of Greenpools",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Colin Florent",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Collio Quaynis",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Colmar Frey",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Conn son of Coratt",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Conwy",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Coratt",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Corenna Swann",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Corliss Penny",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Corlos",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Corlys Velaryon",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Cortnay Penrose",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Corwyn Corbray",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Corwyn Corbray",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Cosgrove",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Cossomo",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Cotter Pyke",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Courteny Greenhill",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Craghas Drahar",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Cragorn",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Crake",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Craster",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Crawn son of Calor",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Cregan Karstark",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Cregan Stark",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Creighton Longbough",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Creighton Redfort",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Cressen",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Criston Cole",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Cuger",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Cutjack",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Cynthea Frey",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Cyrenna Swann",
+    "gender": "Female",
+    "alive": false
+  },
+  {
+    "name": "Daario Naharis",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Dacey Mormont",
+    "gender": "Female",
+    "alive": false
+  },
+  {
+    "name": "Dacks",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Daegon Shepherd",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Daella Targaryen",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Daella Targaryen",
+    "gender": "Female",
+    "alive": false
+  },
+  {
+    "name": "Daemon Blackfyre",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Daemon II Blackfyre",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Daemon Sand",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Daemon Targaryen",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Daena Targaryen",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Daenaera Velaryon",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Daenerys Targaryen",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Daenerys Targaryen",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Daenora Targaryen",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Daeron I",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Daeron II",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Daeron Targaryen",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Daeron Targaryen",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Daeron Vaith",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Daeryssa",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Dafyn Vance",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Dagmer",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Dagon Greyjoy",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Dagon Ironmaker",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Dagos Manwoody",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Dake",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Dake",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Dalbridge",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Dale Drumm",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Dale Seaworth",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Dalla",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Dalla",
+    "gender": "Female",
+    "alive": false
+  },
+  {
+    "name": "Damion Lannister",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Damon",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Damon Lannister",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Damon Lannister",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Damon Marbrand",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Damon Paege",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Damon Shett",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Damon Vypren",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Dan",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Dancy",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Danelle Lothston",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Danny Flint",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Danos Slynt",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Danwell Frey",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Dareon",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Darla Deddings",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Darlessa Marbrand",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Daryn Hornwood",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Daven Lannister",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Davos Seaworth",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Deana Hardyng",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Del",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Delena Florent",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Della Frey",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Delonne Allyrion",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Delp",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Denestan",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Dennett",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Dennis Plumm",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Denyo Terys",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Denys Arryn",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Denys Darklyn",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Denys Drumm",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Denys Mallister",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Denys Redwyne",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Denyse Hightower",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Dermot",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Desmond",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Desmond Grell",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Desmond Redwyne",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Devan Seaworth",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Devyn",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Deziel Dalt",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Dhazzar",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Dick",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Dick Crabb",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Dick Follard",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Dickon Frey",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Dickon Manwoody",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Dickon Tarly",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Dirk",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Dobber",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Dolf son of Holger",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Domeric Bolton",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Donal Noye",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Donel Greyjoy",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Donella Hornwood",
+    "gender": "Female",
+    "alive": false
+  },
+  {
+    "name": "Donnel",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Donnel Drumm",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Donnel Haigh",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Donnel Hill",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Donnel Locke",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Donnel Swann",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Donnel Waynwood",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Donnis",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Donnor Saltcliffe",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Donnor Stark",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Dontos Hollard",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Donyse",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Doran Martell",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Dorcas",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Dorea Sand",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Doreah",
+    "gender": "Female",
+    "alive": false
+  },
+  {
+    "name": "Dormund",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Dorna Swyft",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Dornish Dilly",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Dorren Stark",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Doss",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Draqaz",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Drennan",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Drogo",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Dryn",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Dudley",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Dunaver",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Duncan",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Duncan Targaryen",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Dunsen",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Dunstan Drumm",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Duram Bar Emmon",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Durran",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Dyah",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Dyanna Dayne",
+    "gender": "Female",
+    "alive": false
+  },
+  {
+    "name": "Dykk Harlaw",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Dywen",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Easy",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Ebben",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Ebrose",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Eddara Tallhart",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Eddard Karstark",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Eddard Stark",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Edderion Stark",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Eddison Tollet",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Eden Risley",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Edgerran Oakheart",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Edmund Ambrose",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Edmund Waxley",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Edmure Tully",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Edmyn Tully",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Edric Dayne",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Edric Storm",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Edrick Stark",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Edwyd Fossoway",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Edwyle Stark",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Edwyn Frey",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Edwyn Osgrey",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Edwyn Stark",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Eggon",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Eglantine",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Egon Emeros",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Elaena Targaryen",
+    "gender": "Female",
+    "alive": false
+  },
+  {
+    "name": "Elbert Arryn",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Elder Brother",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Eldiss",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Eldon Estermont",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Eldred Codd",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Eleanor Mooton",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Elenei",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Eleyna Westerling",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Elia Martell",
+    "gender": "Female",
+    "alive": false
+  },
+  {
+    "name": "Elia Sand",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Elinor Tyrell",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Ella Lannister",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Ellaria Sand",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Ellery Vance",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Ellyn Ever Sweet",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Ellyn Reyne",
+    "gender": "Female",
+    "alive": false
+  },
+  {
+    "name": "Elmar Frey",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Elron",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Elwood",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Elwood Meadows",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Elyana Vypren",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Elyas Willum",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Elyn Norridge",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Elys Waynwood",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Elys Westerling",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Elza",
+    "gender": "Female",
+    "alive": false
+  },
+  {
+    "name": "Emberlei Frey",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Emma",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Emmett",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Emmon Cuy",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Emmon Frey",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Emmond",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Emphyria Vance",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Emrick",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Endehar",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Endrew Tarth",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Enger",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Eon Hunter",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Erena Glover",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Erik Ironmaker",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Ermesande Hayford",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Eroeh",
+    "gender": "Female",
+    "alive": false
+  },
+  {
+    "name": "Erreck",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Erreg",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Erren Florent",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Errok",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Erryk",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Esgred",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Ethan Glover",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Euron Greyjoy",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Eustace",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Eustace",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Eustace Brune",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Eustace Hunter",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Eustace Osgrey",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Eyron Stark",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Ezzara",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Ezzelyno",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Falena Stokeworth",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Falia Flowers",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Falyse Stokeworth",
+    "gender": "Female",
+    "alive": false
+  },
+  {
+    "name": "Farlen",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Fern",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Ferny",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Ferrego Antaryon",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Ferret",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Flement Brax",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Florys the Fox",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Fogo",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Forley Prester",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Fornio",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Foss the Archer",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Fralegg",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Franklyn Frey",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Frankyln Fowler",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Frenken",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Frenya",
+    "gender": "Female",
+    "alive": false
+  },
+  {
+    "name": "Frynne",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Gage",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Galazza Galare",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Galbart Glover",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Galladon Tarth",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Galladon of Morne",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Gallard",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Galt",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Galtry the Green",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Galyeon of Cuy",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Gared",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Gareth",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Gareth Clifton",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Garigus",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Garin",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Garin",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Gariss",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Garizon",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Garlan Tyrell",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Garrett Flowers",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Garrett Paege",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Garrison Prester",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Garse Flowers",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Garse Goodbrook",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Garth Greenfield",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Garth Greenhand",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Garth Greyfeather",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Garth Hightower",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Garth Tyrell",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Garth XII Gardener",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Garth of Greenaway",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Garth of Oldtown",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Garth the Gardener",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Gascoyne",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Gavin",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Gawen Glover",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Gawen Swann",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Gawen Westerling",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Gawen Wylde",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Gelmarr",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Gendel",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Gendry",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Genna Lannister",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Gerald Gower",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Gerardys",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Geremy Frey",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Gergen",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Gerion Lannister",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Germund Botley",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Gerold Dayne",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Gerold Grafton",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Gerold Hightower",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Gerold Lannister",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Gerren",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Gerrick",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Gerris Drinkwater",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Gevin Harlaw",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Ghael",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Ghost of High Heart",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Gilbert Farring",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Gilbert of the Vines",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Gillam",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Gilly",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Gilwood Hunter",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Gladden Wylde",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Glendon Flowers",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Glendon Hewett",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Goady",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Godric Borrell",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Godry Farring",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Godwyn",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Goghor",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Goodwin",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Gorghan of Old Ghis",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Gormon Peake",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Gormon Tyrell",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Gormond Drumm",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Gormond Goodbrother",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Gorne",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Gorold Goodbrother",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Gowen Baratheon",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Gran Goodbrother",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Grance Morrigen",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Grazdan",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Grazdan mo Eraz",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Grazdan mo Ullhor",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Grazdan the Great",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Grazdan zo Galare",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Grazdar zo Galare",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Great Walrus",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Gregor Clegane",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Grenn",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Gretchel",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Grey King",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Grey Worm",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Greydon Goodbrother",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Griffin King",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Grigg",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Grisel",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Grisella",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Groleo",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Grubbs",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Grunt",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Gueren",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Gulian",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Gulian Qorgyle",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Gulian Swann",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Guncer Sunglass",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Gunthor Hightower",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Gunthor son of Gurn",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Gurn",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Guthor Grimm",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Guyard Morrigen",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Guyne",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Gwayne Corbray",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Gwayne Gaunt",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Gwayne Hightower",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Gwin Goodbrother",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Gwynesse Harlaw",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Gwyneth Yronwood",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Gylbert Farwynd",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Gyldayn",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Gyleno Dothare",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Gyles",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Gyles Farwynd",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Gyles Grafton",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Gyles III Gardener",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Gyles Rosby",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Gyloro Dothare",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Gynir",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Gysella Goodbrother",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Haegon Blackfyre",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Haggo",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Haggon",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Hairy Hal",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Hake",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Hal",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Halder",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Haldon",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Hali",
+    "gender": "Female",
+    "alive": false
+  },
+  {
+    "name": "Halleck Hoare",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Hallis Mollen",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Hallyne",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Halmon Paege",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Halys Hornwood",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Hamish",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Harbert",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Harbert Paege",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Hareth",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Hareth",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Harghaz",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Harlan Grandison",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Harlan Hunter",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Harle",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Harle",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Harlen Tyrell",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Harlon Botley",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Harlon Greyjoy",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Harma",
+    "gender": "Female",
+    "alive": false
+  },
+  {
+    "name": "Harmen Uller",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Harmond Umber",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Harmund Sharp",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Harmune",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Harodon",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Harra",
+    "gender": "Female",
+    "alive": false
+  },
+  {
+    "name": "Harrag Hoare",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Harrag Sharp",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Harras Harlaw",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Harren Botley",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Harren Half-Hoare",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Harren Hoare",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Harrion Karstark",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Harrold Hardyng",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Harrold Osgrey",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Harrold Westerling",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Harry Sawyer",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Harry Strickland",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Harsley",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Harwin",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Harwin Strong",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Harwood Fell",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Harwood Stout",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Harwyn Hoare",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Harwyn Plumm",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Harys Haigh",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Harys Swyft",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Hayhead",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Hazrak zo Loraq",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Hazzea",
+    "gender": "Female",
+    "alive": false
+  },
+  {
+    "name": "Heke",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Helaena Targaryen",
+    "gender": "Female",
+    "alive": false
+  },
+  {
+    "name": "Helicent Uffering",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Helliweg",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Helly",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Helman Tallhart",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Helya",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Hendry Bracken",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Henk",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Henly",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Herbert Bolling",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Herrock Kenning",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Heward",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Hibald",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "High Septon",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Hilmar Drumm",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Hizdahr zo Loraq",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Hoare",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Hoarfrost Umber",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Hobb",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Hobber Redwyne",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Hod",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Hoke",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Holger",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Holly",
+    "gender": "Female",
+    "alive": false
+  },
+  {
+    "name": "Hooded Man",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Hop-Robin",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Horas Redwyne",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Horton Redfort",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Hosman Norcross",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Hosteen Frey",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Hoster Frey",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Hoster Tully",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Hot Pie",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Hother Umber",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Hotho Harlaw",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Howd",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Howland Reed",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Hubard Rambton",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Hugh",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Hugh Beesbury",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Hugh Grandison",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Hugh Hammer",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Hugo Vance",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Hugo Wull",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Hugor of the Hill",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Hullen",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Humfrey Beesbury",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Humfrey Clifton",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Humfrey Hardyng",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Humfrey Hewett",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Humfrey Swyft",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Humfrey Wagstaff",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Hunnimore",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Husband",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Hyle Hunt",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Iggo",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Igon Vyrwel",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Illifer",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Illyrio Mopatis",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Illyrio's first wife",
+    "gender": "Female",
+    "alive": false
+  },
+  {
+    "name": "Ilyn Payne",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Imry Florent",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Ironbelly",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Irri",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Ithoke",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Jacelyn Bywater",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Jack",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Jack Bulwer",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Jack Musgood",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Jacks",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Jaehaera Targaryen",
+    "gender": "Female",
+    "alive": false
+  },
+  {
+    "name": "Jaehaerys I",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Jaehaerys II",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Jaehaerys Targaryen",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Jafer Flowers",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Jaggot",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Jaime Frey",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Jaime Lannister",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Jalabhar Xho",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Jammos Frey",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Janei Lannister",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Janna Tyrell",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Janos Slynt",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Janyce Hunter",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Jaqen H'ghar",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Jared Frey",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Jaremy Rykker",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Jarl",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Jarman Buckwell",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Jason Lannister",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Jason Mallister",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Jasper Arryn",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Jasper Redfort",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Jasper Waynwood",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Jasper Wylde",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Jate",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Jate Blackberry",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Jayde",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Jayne Bracken",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Jeffory Mallister",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Jeffory Norcross",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Jena Dondarrion",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Jenny",
+    "gender": "Female",
+    "alive": false
+  },
+  {
+    "name": "Jenny of Oldstones",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Jeor Mormont",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Jeren",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Jeyne",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Jeyne",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Jeyne Arryn",
+    "gender": "Female",
+    "alive": false
+  },
+  {
+    "name": "Jeyne Beesbury",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Jeyne Darry",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Jeyne Farman",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Jeyne Fossoway",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Jeyne Goodbrook",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Jeyne Heddle",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Jeyne Lothston",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Jeyne Lydden",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Jeyne Marbrand",
+    "gender": "Female",
+    "alive": false
+  },
+  {
+    "name": "Jeyne Poole",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Jeyne Rivers",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Jeyne Royce",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Jeyne Swann",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Jeyne Waters",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Jeyne Westerling",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Jeyne Westerling",
+    "gender": "Female",
+    "alive": false
+  },
+  {
+    "name": "Jezhene",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Jhaqo",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Jhiqui",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Jhogo",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Joanna Lannister",
+    "gender": "Female",
+    "alive": false
+  },
+  {
+    "name": "Joanna Swyft",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Jocelyn Swyft",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Jodge",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Joffrey Baratheon",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Joffrey Caswell",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Joffrey Lonmouth",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Johanna Lannister",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Johanna Swann",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "John the Oak",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Jojen Reed",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Jommo",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Jommy",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Jon Arryn",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Jon Bettley",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Jon Brax",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Jon Bulwer",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Jon Connington",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Jon Cupps",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Jon Fossoway",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Jon Heddle",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Jon Hollard",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Jon Lynderly",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Jon Myre",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Jon Penny",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Jon Penrose",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Jon Pox",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Jon Redfort",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Jon Snow",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Jon Stark",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Jon Umber",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Jon Umber",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Jon Vance",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Jon Waters",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Jon Wylde",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Jonelle Cerwyn",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Jonnel Stark",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Jonos Bracken",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Jonos Frey",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Jonos Stark",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Jonothor Darry",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Jorah Mormont",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Jorah Stark",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Joramun",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Jorelle Mormont",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Jorgen",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Jorquen",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Jory Cassel",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Joseran",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Joseth",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Joseth Mallister",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Josmyn Peckledon",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Joss",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Joss",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Joss Stilwood",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Josua Willum",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Joth Quickbow",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Jothos Slynt",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Joy Hill",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Joyeuse Erenford",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Jurne",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Justin Massey",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Jyana",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Jyanna Frey",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Jyck",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Jynessa Blackmont",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Jyzene",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Kaeth",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Karl",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Karlon Stark",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Karyl Vance",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Kedge Whiteye",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Kedry",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Kegs",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Kella",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Kemmett Pyke",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Kenned",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Kennos of Kayce",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Ketter",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Kevan Lannister",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Kezmya",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Khorane Sathmantes",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Khrazz",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Kiera of Tyrosh",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Kindly Man",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Kirby Pimm",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Kirth Vance",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Kojja Mo",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Koss",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Kraznys mo Nakloz",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Kromm",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Kurleket",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Kurz",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Kyle",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Kyle",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Kyle Condon",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Kyle Royce",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Kyleg",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Kym",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Kyra",
+    "gender": "Female",
+    "alive": false
+  },
+  {
+    "name": "Kyra Frey",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Lady of the Leaves",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Laena Velaryon",
+    "gender": "Female",
+    "alive": false
+  },
+  {
+    "name": "Laenor Velaryon.",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Lambert Turnberry",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Lancel Lannister",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Lancel V Lannister",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Lann",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Lanna",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Lanna",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Lanna Lannister",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Larence Snow",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Lark",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Larra Blackmont",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Larra Rogare",
+    "gender": "Female",
+    "alive": false
+  },
+  {
+    "name": "Larraq",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Larys Strong",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Layna",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Leana Frey",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Leathers",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Left Hand Lew",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Lem",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Lem",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Lenn",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Lennocks",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Lenwood Tawney",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Lenyl",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Leo Blackbar",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Leo Lefford",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Leo Tyrell",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Leo Tyrell",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Leobald Tallhart",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Leona Tyrell",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Leona Woolfield",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Leonella Lefford",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Leonette Fossoway",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Leslyn Haigh",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Lester",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Lester Morrigen",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Lew",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Lew",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Lewis Lanster",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Lewyn Martell",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Lewys",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Lewys Lydden",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Lewys Piper",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Leyla Hightower",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Leyton Hightower",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Lharys",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Lia Serry",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Liane Vance",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Lister",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Lollys Stokeworth",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Lomas Estermont",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Lommy",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Lomys",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Loras Tyrell",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Lorcas",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Lord Ashford",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Lord Belgrave",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Lord Caswell",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Lord Staunton",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Lord of Bones",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Loren I Lannister",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Lorent Caswell",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Lorent Lorch",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Lorent Marbrand",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Lorent Tyrell",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Loreza Sand",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Lorimer",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Lormelle",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Lorra Royce",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Lorren",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Lothar",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Lothar Frey",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Lothar Mallery",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Lotho Lornel",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Lothor Brune",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Lucamore Strong",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Lucan",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Lucantine Woodwright",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Lucas Blackwood",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Lucas Codd",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Lucas Corbray",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Lucas Inchfield",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Lucas Lothston",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Lucas Nayland",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Lucas Roote",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Lucas Tyrell",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Luceon Frey",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Lucias Vypren",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Lucifer Hardy",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Lucimore Botley",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Lucion Lannister",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Luco Prestayn",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Lucos",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Lucos Chyttering",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Luke",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Luke",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Lum",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Luthor Tyrell",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Luthor Tyrell",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Luthor Tyrell",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Luton",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Luwin",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Lyanna Mormont",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Lyanna Stark",
+    "gender": "Female",
+    "alive": false
+  },
+  {
+    "name": "Lyarra Stark",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Lyessa Flint",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Lyle Crakehall",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Lyman Beesbury",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Lyman Darry",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Lymond Goodbrook",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Lymond Lychester",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Lymond Mallister",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Lymond Vikary",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Lyn Corbray",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Lync",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Lynesse Hightower",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Lyonel",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Lyonel Baratheon",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Lyonel Bentley",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Lyonel Corbray",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Lyonel Frey",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Lyonel Selmy",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Lyonel Strong",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Lyonel Tyrell",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Lyonel Tyrell",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Lyra Mormont",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Lysa Arryn",
+    "gender": "Female",
+    "alive": false
+  },
+  {
+    "name": "Lysa Meadows",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Lysono Maar",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Lythene Frey",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Mace Tyrell",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Mad Huntsman",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Maddy",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Maege Mormont",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Maegelle Frey",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Maegor I",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Maekar I",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Maelor Targaryen",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Maelys I Blackfyre",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Maerie",
+    "gender": "Female",
+    "alive": false
+  },
+  {
+    "name": "Maerie",
+    "gender": "Female",
+    "alive": false
+  },
+  {
+    "name": "Mag Mar Tun Doh Weg",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Maggy",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Mago",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Malcolm",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Maldon Massey",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Mallador Locke",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Malleon",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Malliard",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Mallor",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Mallor",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Malwyn Frey",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Mance Rayder",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Mandon Moore",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Manfred Dondarrion",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Manfred Lothston",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Manfred Swann",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Manfrey Martell",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Manfryd Lothston",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Manfryd Yew",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Marei",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Margaery Tyrell",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Marghaz zo Loraq",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Margot Lannister",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Mariah Martell",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Marianne Vance",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Maric Seaworth",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Marillion",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Maris",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Maris the Maid",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Marissa Frey",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Mariya Darry",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Mark Mullendore",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Mark Ryswell",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Marlon Manderly",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Marna Locke",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Maron Botley",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Maron Greyjoy",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Maron Nymeros Martell",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Maron Volmark",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Marq Grafton",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Marq Piper",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Marq Rankenfell",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Marsella Waynwood",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Martyn Cassel",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Martyn Lannister",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Martyn Mullendore",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Martyn Rivers",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Marwyn",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Marwyn Belmore",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Mary Mertyns",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Marya Seaworth",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Masha Heddle",
+    "gender": "Female",
+    "alive": false
+  },
+  {
+    "name": "Maslyn",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Matarys Targaryen",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Mathis Frey",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Mathis Rowan",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Mathos Mallarawan",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Matrice",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Matt",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Matthar",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Matthos Seaworth",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Mawney",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Maynard",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Maynard Plumm",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Mazdhan zo Loraq",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Mebble",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Medgar Tully",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Medger Cerwyn",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Medwick Tyrell",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Meera Reed",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Meg",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Megette",
+    "gender": "Female",
+    "alive": false
+  },
+  {
+    "name": "Megga Tyrell",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Meha",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Meizo Mahr",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Mela",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Melantha Blackwood",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Melaquin",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Melara Crane",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Melara Hetherspoon",
+    "gender": "Female",
+    "alive": false
+  },
+  {
+    "name": "Meldred Merlyn",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Melesa Crakehall",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Melessa Florent",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Meliana",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Melicent",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Melisandre",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Melissa Blackwood",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Mellara Rivers",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Mellario",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Mellei",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Mellos",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Melly",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Melwyn Sarsfield",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Melwys Rivers",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Meralyn",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Meredyth Crane",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Merianne Frey",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Meribald",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Merlon Crakehall",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Mern IX Gardener",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Mero",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Merrell Florent",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Merrett Frey",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Merrit",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Meryn Trant",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Mezzara",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Michael Mertyns",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Mikken",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Miklaz",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Mina Tyrell",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Minisa Whent",
+    "gender": "Female",
+    "alive": false
+  },
+  {
+    "name": "Mirri Maz Duur",
+    "gender": "Female",
+    "alive": false
+  },
+  {
+    "name": "Missandei",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Moelle",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Mohor",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Mollander",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Mollos",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Monford Velaryon",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Monster",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Monterys Velaryon",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Moon Boy",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Moonshadow",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Moqorro",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Mord",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Mordane",
+    "gender": "Female",
+    "alive": false
+  },
+  {
+    "name": "Moredo Prestayn",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Moreo Tumitis",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Morgan Martell",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Morgarth",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Morgil Hastwyck",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Moribald Chester",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Morna White Mask",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Moro",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Morosh the Myrman",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Morra",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Morrec",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Morros Slynt",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Mors Manwoody",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Mors Martell",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Mors Martell",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Mors Umber",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Mortimer Boggs",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Morton Waynwood",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Morya Frey",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Moryn Tyrell",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Mother Mole",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Mudge",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Mudge",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Mudge",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Mullin",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Mully",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Munciter",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Munda",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Murch",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Murch",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Murenmure",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Murmison",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Mushroom",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Muttering Bill",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Mya Stone",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Mycah",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Mychel Redfort",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Mylenda Caron",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Myles",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Myles",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Myles Manwoody",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Myles Mooton",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Myles Smallwood",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Myranda Lefford",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Myranda Royce",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Myrcella Baratheon",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Myria Jordayne",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Myriame Manderly",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Myrielle Lannister",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Myrtle",
+    "gender": "Female",
+    "alive": false
+  },
+  {
+    "name": "Mysaria",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Naerys Targaryen",
+    "gender": "Female",
+    "alive": false
+  },
+  {
+    "name": "Nage",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Nail",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Nan",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Narbert",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Narbo",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Ned",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Ned Woods",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Nella",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Nestor Royce",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Nettles",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Nissa Nissa",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Noho Dimittis",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Nolla",
+    "gender": "Female",
+    "alive": false
+  },
+  {
+    "name": "Norbert Vance",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Norjen",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Normund Tyrell",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Norne Goodbrother",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Norren",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Notch",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Nute",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Nymella Toland",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Nymeria",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Nymeria Sand",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Nymos",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Nysterica",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Obara Sand",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Obella Sand",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Oberyn Nymeros Martell",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Ocley",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Ogo",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Old Grey Gull",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Old Henly",
+    "gender": "Female",
+    "alive": false
+  },
+  {
+    "name": "Old Tattersalt",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Olene Tyrell",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Olenna Redwyne",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Ollidor",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Ollo",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Olymer Tyrell",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Olyvar Frey",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Olyvar Oakheart",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Omer Blackberry",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Omer Florent",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Ondrew Locke",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Orbelo",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Orbert Caswell",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Ordello",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Orell",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Orivel",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Orland of Oldtown",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Ormond",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Ormond Osgrey",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Ormond Westerling",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Ormond Yronwood",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Ormund Baratheon",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Ormund Wylde",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Oro Tendyris",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Orphan Oss",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Orton Merryweather",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Orwyle",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Orys Baratheon",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Osbert Serry",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Osfryd Kettleblack",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Osha",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Osmund Frey",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Osmund Kettleblack",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Osmynd",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Osney Kettleblack",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Ossifer Plumm",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Ossy",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Oswell Kettleblack",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Oswell Whent",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Oswyn",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Othell Yarwyck",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Otho Bracken",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Othor",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Otter Gimpknee",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Otto Hightower",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Ottomore",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Ottyn Wythers",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Owen",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Owen",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Owen Inchfield",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Owen Norrey",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Oznak zo Pahl",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Palla",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Parmen Crane",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Patchface",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Pate",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Pate",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Pate",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Pate",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Pate",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Pate",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Pate",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Pate of Lancewood",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Pate of Mory",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Pate of Shermer's Grove",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Patrek Mallister",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Patrek Vance",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Paxter Redwyne",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Pearse Caron",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Pello of Tyrosh",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Penny",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Perra Frey",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Perra Royce",
+    "gender": "Female",
+    "alive": false
+  },
+  {
+    "name": "Perriane Frey",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Perros Blackmont",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Perwyn Frey",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Perwyn Osgrey",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Peter Plumm",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Petyr Baelish",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Petyr Frey",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Philip Foote",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Philip Plumm",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Pia",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Plummer",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Podrick Payne",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Pollitor",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Polliver",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Pono",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Porther",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Portifer Woodwright",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Poul Pemford",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Poxy Tym",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Praed",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Prendahl na Ghezn",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Preston Greenfield",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Puckens",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Pudding",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Puddingfoot",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Pyat Pree",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Pycelle",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Pyg",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Pylos",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Pypar",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Qalen",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Qarl",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Qarl",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Qarl",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Qarl Correy",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Qarl Kenning",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Qarl Shepherd",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Qarlton Chelsted",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Qarro Volentin",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Qezza",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Qhorin",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Qhorwyn Hoare",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Qorgyle",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Qos",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Qotho",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Quaithe",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Quaro",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Quellon Botley",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Quellon Greyjoy",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Quellon Humble",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Quence",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Quent",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Quenten Banefort",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Quentin Tyrell",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Quenton Greyjoy",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Quenton Hightower",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Quenton Qoherys",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Quentyn Ball",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Quentyn Blackwood",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Quentyn Martell",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Quentyn Qorgyle",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Quhuru Mo",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Quill",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Quincy Cox",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Quort",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Qyburn",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Qyle",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Racallio Ryndoon",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Rafe",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Rafford",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Ragnor Pyke",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Ragwyle",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Rainbow Knight",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Rakharo",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Ralf",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Ralf",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Ralf Kenning",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Ralf Stonehouse",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Ralf the Limper",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Ralph Buckler",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Ramsay Snow",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Randa",
+    "gender": "Female",
+    "alive": false
+  },
+  {
+    "name": "Randyll Tarly",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Rast",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Rat Cook",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Ravella Swann",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Rawney",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Raymar Royce",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Raymond Nayland",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Raymun Darry",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Raymun Fossoway",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Raymun Redbeard",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Raymund Frey",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Raymund Tyrell",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Raynald Westerling",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Raynard",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Raynard Ruttiger",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Red Alyn",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Red Lamb",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Red Oarsman",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Redtusk",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Redwyn",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Regenard Estren",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Renfred Rykker",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Renly Baratheon",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Renly Norcross",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Rennifer Longwaters",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Reynard Webber",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Reysen",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Reznak mo Reznak",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Rhae Targaryen",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Rhaegar Frey",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Rhaegar Targaryen",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Rhaegel Targaryen",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Rhaego",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Rhaella Targaryen",
+    "gender": "Female",
+    "alive": false
+  },
+  {
+    "name": "Rhaelle Targaryen",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Rhaena Targaryen",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Rhaena Targaryen",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Rhaena Targaryen",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Rhaenyra Targaryen",
+    "gender": "Female",
+    "alive": false
+  },
+  {
+    "name": "Rhaenys Targaryen",
+    "gender": "Female",
+    "alive": false
+  },
+  {
+    "name": "Rhaenys Targaryen",
+    "gender": "Female",
+    "alive": false
+  },
+  {
+    "name": "Rhaenys Targaryen",
+    "gender": "Female",
+    "alive": false
+  },
+  {
+    "name": "Rhea Florent",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Rhea Royce",
+    "gender": "Female",
+    "alive": false
+  },
+  {
+    "name": "Rhialta Vance",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Rhogoro",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Rhonda Rowan",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Ricasso",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Richard Farrow",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Richard Horpe",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Richard Lonmouth",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Richard Morrigen",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Rickard Karstark",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Rickard Ryswell",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Rickard Stark",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Rickard Stark",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Rickard Thorne",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Rickard Tyrell",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Rickard Wylde",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Rickon Stark",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Rigney",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Rob",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Robar Royce",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Robb Reyne",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Robb Stark",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Robert Arryn",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Robert Ashford",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Robert Brax",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Robert Brax",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Robert Flowers",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Robert Frey",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Robert Frey",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Robert I Baratheon",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Robert Paege",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Robett Glover",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Robin",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Robin Flint",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Robin Greyjoy",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Robin Hill",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Robin Hollard",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Robin Moreland",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Robin Peasebury",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Robin Potter",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Robin Ryger",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Robyn Rhysling",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Robyn Ryswell",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Rodrik Arryn",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Rodrik Cassel",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Rodrik Flint",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Rodrik Freeborn",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Rodrik Greyjoy",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Rodrik Harlaw",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Rodrik Ryswell",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Rodrik Stark",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Rodrik Stark",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Rodwell Stark",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Roelle",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Roger Hogg",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Roger Ryswell",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Roger of Pennytree",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Roggo",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Rohanne",
+    "gender": "Female",
+    "alive": false
+  },
+  {
+    "name": "Rohanne Webber",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Roland Crakehall",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Roland Crakehall",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Rolder",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Rolfe",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Rolfe",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Rollam Westerling",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Rolland Darklyn",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Rolland Longthorpe",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Rolland Storm",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Rolland Uffering",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Rolley of Sisterton",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Rolly Duckfield",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Rolph Spicer",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Romny Weaver",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Ronald Connington",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Ronald Storm",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Ronald Vance",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Ronel Rivers",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Ronnel Harclay",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Ronnel Stout",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Ronnet Connington",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Roone",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Roone",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Roose Bolton",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Roose Ryswell",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Rorge",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Roro Uhoris",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Roryn Drumm",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Rosamund Lannister",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Rose of Red Lake",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Rosey",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Roslin Frey",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Rossart",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Rowan",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Rowan Gold-Tree",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Royce Coldwater",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Rudge",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Rufus Leek",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Rugen",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Runcel Hightower",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Runciter",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Rupert Brax",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Rupert Crabb",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Rus",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Russell Merryweather",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Rusty Flowers",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Ryam",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Ryam Florent",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Ryam Redwyne",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Rycherd Crane",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Ryella Frey",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Ryella Royce",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Ryger Rivers",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Ryk",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Rylene Florent",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Ryles",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Ryman Frey",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Rymolf",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Rymund",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Ryn",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Ryon Allyrion",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "S'vrone",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Saathos",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Saera Targaryen",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Salladhor Saan",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Sallei Paege",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Sallor",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Salloreon",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Sam Stoops",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Samwell Spicer",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Samwell Stone",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Samwell Tarly",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Sandor Clegane",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Sandor Frey",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Sansa Stark",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Sarella Sand",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Sargon Botley",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Sarra Frey",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Sarya Whent",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Satin",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Sawane Botley",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Sawwood",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Scarb",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Scolera",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Sebastion Errol",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Sebaston Farman",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Sedgekins",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Sefton Staunton",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Selmond Stackspear",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Selwyn Tarth",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Selyse Florent",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Senelle",
+    "gender": "Female",
+    "alive": false
+  },
+  {
+    "name": "Serala of Myr",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Serra",
+    "gender": "Female",
+    "alive": false
+  },
+  {
+    "name": "Serra Frey",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Serwyn",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Shadrich",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Shae",
+    "gender": "Female",
+    "alive": false
+  },
+  {
+    "name": "Shaera Targaryen",
+    "gender": "Female",
+    "alive": false
+  },
+  {
+    "name": "Shagga, son of Dolf",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Shagwell",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Sharna",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Shella",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Shella Whent",
+    "gender": "Female",
+    "alive": false
+  },
+  {
+    "name": "Sherrit",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Shiera Crakehall",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Shiera Seastar",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Shierle Swyft",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Shireen Baratheon",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Shirei Frey",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Shortear",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Shyra",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Shyra Errol",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Sigfry Stonetree",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Sigfryd Harlaw",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Sigorn",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Sigrin",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Simon Leygood",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Simon Staunton",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Simon Toyne",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Skahaz mo Kandaq",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Skinner",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Skittrick",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Sky Blue Su",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Skyte",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Sloey",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Small Paul",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Softfoot",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Soren",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Spare Boot",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Spotted Cat",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Spotted Pate",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Squint",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Squirrel",
+    "gender": "Female",
+    "alive": false
+  },
+  {
+    "name": "Stafford Lannister",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Stalwart Shield",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Stannis Baratheon",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Stannis Seaworth",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Steeelskin",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Steely Pate",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Steffarion Sparr",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Steffon Baratheon",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Steffon Darklyn",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Steffon Fossoway",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Steffon Frey",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Steffon Hollard",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Steffon Seaworth",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Steffon Stackspear",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Steffon Swyft",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Steffon Varner",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Stevron Frey",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Stiv",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Stone Thumbs",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Stonehand",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Stonesnake",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Stygg",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Styr",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Sumner Crakehall",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Sybassion",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Sybell Spicer",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Sybelle Glover",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Sylas",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Sylas Flatnose",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Sylva Santagar",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Sylwa Paege",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Symeon Star-Eyes",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Symon",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Symon Hollard",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Symon Santagar",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Symon Stripeback",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Symond Botley",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Symond Frey",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Symond Templeton",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Syrio Forel",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Taena of Myr",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Tagganaro",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Tal Toraq",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Talbert Serry",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Talea",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Talla Tarly",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Tallad",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Tanda Stokeworth",
+    "gender": "Female",
+    "alive": false
+  },
+  {
+    "name": "Tanselle",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Tansy",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Tansy",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Tanton Fossoway",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Tarber",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Tarle",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Temmo",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Teora Kyndall",
+    "gender": "Female",
+    "alive": false
+  },
+  {
+    "name": "Ternesio Terys",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Terrance Lynderly",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Terrence Kenning",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Terrence Toyne",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Terro",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "The Nightingale",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "The Smiling Knight",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "The Sparr",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "The Stonehouse",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "The Tickler",
+    "gender": "Female",
+    "alive": false
+  },
+  {
+    "name": "The Weeper",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Theo Frey",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Theo Wull",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Theobald",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Theodan Wells",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Theodore Tyrell",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Theomar Smallwood",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Theomore Harlaw",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Theomore Lannister",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Theon Greyjoy",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Theon Stark",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Thistle",
+    "gender": "Female",
+    "alive": false
+  },
+  {
+    "name": "Thoren Smallwood",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Thormor Ironmaker",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Thoros of Myr",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Three Toes",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Three-Tooth",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Tim Stone",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Tim Tangletongue",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Timeon",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Timett",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Timett, son of Timett",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Timon",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Timoth",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Tion Frey",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Tion Lannister",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Titus Peake",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Tobbot",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Tobho Mott",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Todder",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Todric",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Toefinger",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Togg Joth",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Tom Costayne",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Tom of Sevenstreams",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "TomToo",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Tomard",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Tommard Heddle",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Tommen Baratheon",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Tommen Costayne",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Torbert",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Toregg",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Torghen Flint",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Tormund",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Torrek",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Torren Liddle",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Torrence Teague",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Torrhen Karstark",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Torrhen Stark",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Torwold",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Torwynd",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Tothmure",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Trebor Jordayne",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Tregar",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Tregar Ormollen",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Tremond Gargalen",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Tristan Mudd",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Tristan Ryger",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Tristifer Botley",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Tristifer IV Mudd",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Tristifer V",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Tristimun",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Triston",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Triston Farwynd",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Triston Sunderland",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Trystane Martell",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Tuffleberry",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Tumberjon",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Tumco Lho",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Turnip",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Turquin",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Tya Lannister",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Tyana Wylde",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Tybero Istarion",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Tybolt Crakehall",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Tybolt Hetherspoon",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Tybolt Lannister",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Tycho Nestoris",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Tyene Sand",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Tygett Lannister",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Tyland Lannister",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Tymor",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Tyrek Lannister",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Tyrion Lannister",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Tyrion Tanner",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Tysane Frey",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Tysha",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Tyta Frey",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Tytos Blackwood",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Tytos Brax",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Tytos Frey",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Tytos Lannister",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Tywin Frey",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Tywin Frey",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Tywin Lannister",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Ulf",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Ulf son of Umar",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Ulf the White",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Uller",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Ulmer",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Ulrick Dayne",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Ulwyck Uller",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Umar",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Umfred",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Umma",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Unella",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Unknown",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Urek Ironmaker",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Urras Greyiron",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Urrathon",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Urreg",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Urrigon Greyjoy",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Urron Greyiron",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Urswyck",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Urzen",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Utherydes Wayn",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Uthor Tollett",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Uthor Underleaf",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Uthor of the High Tower",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Utt",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Vaellyn",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Vaemond Velaryon",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Val",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Valarr Targaryen",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Varamyr",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Vardis Egen",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Vargo Hoat",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Varly",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Varys",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Vayon Poole",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Velaena Velaryon",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Vickon Botley",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Vickon Greyjoy",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Victaria Tyrell",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Victarion Greyjoy",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Victor Tyrell",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Violet",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Visenya Targaryen",
+    "gender": "Female",
+    "alive": false
+  },
+  {
+    "name": "Viserys I",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Viserys II",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Viserys Plumm",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Viserys Targaryen",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Vortimer Crane",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Vylarr",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Vyman",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Walda Frey",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Walda Frey",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Walda Frey",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Walda Frey",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Walda Frey",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Walda Rivers",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Walda Rivers",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Walder",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Walder Brax",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Walder Frey",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Walder Frey",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Walder Frey",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Walder Frey",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Walder Frey",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Walder Goodbrook",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Walder Haigh",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Walder Rivers",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Walder Vance",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Waldon Wynch",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Walgrave",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Wallace Waynwood",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Wallen",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Walter Whent",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Walton",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Walton Frey",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Walton Stark",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Waltyr Frey",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Walys Flowers",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Warryn Beesbury",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Wat",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Wat",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Wat",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Wat",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Wat",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Wat",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Wat",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Wate",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Watt",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Watty",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Waymar Royce",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Wayn",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Weasel",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Weese",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Wenda",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Wendamyr",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Wendel Frey",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Wendel Manderly",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Wendell Webber",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Wendello Qar Deeth",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Werlag",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Wex Pyke",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Whalen Frey",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Wilbert",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Wilbert Osgrey",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Will",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Will",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Will",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Will",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Will",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Will",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Will",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Will",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Will Humble",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Willam",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Willam Dustin",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Willam Stark",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Willam Wells",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Willam Wythers",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Willamen Frey",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Willas Tyrell",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Willem Darry",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Willem Frey",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Willem Lannister",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Willem Wylde",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "William Mooton",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Willifer",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Willis Fell",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Willis Wode",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Willit",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Willow",
+    "gender": "Female",
+    "alive": false
+  },
+  {
+    "name": "Willow Heddle",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Willum",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Wolmer",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Woth",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Wulfe",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Wun Weg Wun Dar Wun",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Wyl",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Wyl",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Wyl Waynwood",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Wylis Manderly",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Wylla",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Wylla Manderly",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Wyman Manderly",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Wynafrei Whent",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Wynafryd Manderly",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Wynton Stout",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Xaro Xhoan Daxos",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Xhondo",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Yandry",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Ygon",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Ygon Farwynd",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Ygritte",
+    "gender": "Female",
+    "alive": false
+  },
+  {
+    "name": "Yna",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Ynys Yronwood",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Yohn Farwynd",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Yohn Royce",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Yoren",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Yorkel",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Yorko Terys",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Yormwell",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Young Henly",
+    "gender": "Male",
+    "alive": false
+  },
+  {
+    "name": "Ysilla",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Ysilla Royce",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Zachery Frey",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Zarabelo",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Zei",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Zekko",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Zharaq zo Loraq",
+    "gender": "Male",
+    "alive": true
+  },
+  {
+    "name": "Zhoe Blanetree",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Zia Frey",
+    "gender": "Female",
+    "alive": true
+  },
+  {
+    "name": "Zollo",
+    "gender": "Male",
+    "alive": true
+  }
+]
