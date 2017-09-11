@@ -1,9 +1,9 @@
 ## Getting Started
 
 The purpose of this workshop is to introduce you to some of the basic concepts of GraphQL.
-In order to complete the exercises you will need either have:
-* [node](https://nodejs.org/en/download/) installed and your proxy settings set correctly in NPM
+In order to complete the exercises you will need:
 * An account set up with [Cloud9](https://c9.io) *- log in using your github account otherwise it will ask for your CC details*
+* A new Node.js workspace on Cloud9, cloned from this git URL: https://github.com/adwilk/learn-graphql.git
 
 You'll be working through the exercises below and making changes to `index.js`. First you will need to install the projects dependencies by running `npm install`, then to start the application use `npm start` (the application will automatically restart when `index.js` is modified).
 
